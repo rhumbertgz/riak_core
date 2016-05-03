@@ -877,4 +877,3 @@ proxy_spawn_test() ->
     end.
 
 -endif.
-
